@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1063860673193-lkjut0c3fmqg92l88lcalg1ci5s7hm8a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1063860673193-lkjut0c3fmqg92l88lcalg1ci5s7hm8a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQpvB69hIVg5hnJudJhJnXzpXc8KoA4MY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1063860673193</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AidaGaziz.Hola</string>
+	<key>PROJECT_ID</key>
+	<string>hola-e28a4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hola-e28a4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1063860673193:ios:751644d12c00ed7146e7b8</string>
+</dict>
+</plist>

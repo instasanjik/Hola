@@ -1,0 +1,20 @@
+PODS:
+  - ReverseExtension (0.6.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - ReverseExtension
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - ReverseExtension
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  ReverseExtension: 5c7ca8c165f47e9bde8e26084d5e7bf21ad4f5a6
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: d09ce0732cf854893dc027aa2cb6cea367008c4a
+
+COCOAPODS: 1.11.2
